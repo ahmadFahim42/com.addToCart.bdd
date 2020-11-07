@@ -1,0 +1,110 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4447753274,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Add to Cart",
+        "description": "",
+        "id": "addtocart;add-to-cart",
+        "after": [
+          {
+            "result": {
+              "duration": 214129904,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2257435317,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User is on retail website",
+            "match": {
+              "location": "AddToCartStepDefinition.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 849177033,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on Tablet button",
+            "match": {
+              "location": "AddToCartStepDefinition.user_click_on_Tablet_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 478024965,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click on Add to Cart button",
+            "match": {
+              "location": "AddToCartStepDefinition.user_click_on_Add_to_Cart_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 501353158,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User click on Shopping Cart button",
+            "match": {
+              "location": "AddToCartStepDefinition.user_click_on_Shopping_Cart_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 293407385,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User should see the item in the shopping cart",
+            "match": {
+              "location": "AddToCartStepDefinition.user_should_see_the_item_in_the_shopping_cart()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@addToCart"
+          }
+        ]
+      }
+    ],
+    "name": "addToCart",
+    "description": "",
+    "id": "addtocart",
+    "keyword": "Feature",
+    "uri": "Features/addToCart.feature"
+  }
+]

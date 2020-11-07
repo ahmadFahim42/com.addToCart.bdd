@@ -1,0 +1,50 @@
+2020-11-04 18:14:04,752 - logger_File -INFO - Scenario Add to CartStarted
+2020-11-04 18:14:11,364 - logger_File -INFO - Add to Cart  undefined
+2020-11-07 13:31:02,600 - logger_File -INFO - Scenario Add to CartStarted
+2020-11-07 13:31:08,932 - logger_File -INFO - Add to Cart  undefined
+2020-11-07 13:41:04,719 - logger_File -INFO - Scenario Add to CartStarted
+2020-11-07 13:41:10,183 - logger_File -INFO - Add to Cart  undefined
+2020-11-07 14:31:23,844 - logger_File -INFO - Scenario Add to CartStarted
+2020-11-07 14:31:30,204 - logger_File -INFO - Add to Cart  undefined
+2020-11-07 14:44:44,238 - logger_File -INFO - Scenario Add to CartStarted
+2020-11-07 14:44:50,193 - logger_File -INFO - Add to Cart  passed
+2020-11-07 15:45:55,374 - logger_File -INFO - Scenario Add to CartStarted
+2020-11-07 15:46:03,135 - logger_File -INFO - Retail page is opened
+2020-11-07 15:46:03,153 - logger_File -INFO - page title is verified
+2020-11-07 15:46:04,617 - logger_File -INFO - user click on tablet
+2020-11-07 15:46:05,151 - logger_File -INFO - user click on Add to cart button
+2020-11-07 15:46:06,124 - logger_File -INFO - user click on shopping cart
+2020-11-07 15:46:06,410 - logger_File -INFO - user is on shopping cart
+2020-11-07 15:46:06,614 - logger_File -INFO - Add to Cart  passed
+2020-11-07 15:49:01,647 - logger_File -INFO - Scenario Add to CartStarted
+2020-11-07 15:49:09,230 - logger_File -INFO - Retail page is opened
+2020-11-07 15:49:09,309 - logger_File -INFO - page title is verified
+2020-11-07 15:49:10,967 - logger_File -INFO - user click on tablet
+2020-11-07 15:49:11,489 - logger_File -INFO - user click on Add to cart button
+2020-11-07 15:49:12,410 - logger_File -INFO - user click on shopping cart
+2020-11-07 15:49:12,702 - logger_File -INFO - user is on shopping cart
+2020-11-07 15:49:12,899 - logger_File -INFO - Add to Cart  passed
+2020-11-07 15:50:24,425 - logger_File -INFO - Scenario Add to CartStarted
+2020-11-07 15:50:29,824 - logger_File -INFO - Retail page is opened
+2020-11-07 15:50:29,844 - logger_File -INFO - page title is verified
+2020-11-07 15:50:31,338 - logger_File -INFO - user click on tablet
+2020-11-07 15:50:31,824 - logger_File -INFO - user click on Add to cart button
+2020-11-07 15:50:32,240 - logger_File -INFO - user click on shopping cart
+2020-11-07 15:50:32,547 - logger_File -INFO - user is on shopping cart
+2020-11-07 15:50:32,738 - logger_File -INFO - Add to Cart  passed
+2020-11-07 15:51:46,450 - logger_File -INFO - Scenario Add to CartStarted
+2020-11-07 15:51:52,029 - logger_File -INFO - Retail page is opened
+2020-11-07 15:51:52,043 - logger_File -INFO - page title is verified
+2020-11-07 15:51:53,538 - logger_File -INFO - user click on tablet
+2020-11-07 15:51:54,050 - logger_File -INFO - user click on Add to cart button
+2020-11-07 15:51:55,055 - logger_File -INFO - user click on shopping cart
+2020-11-07 15:51:55,351 - logger_File -INFO - user is on shopping cart
+2020-11-07 15:51:55,535 - logger_File -INFO - Add to Cart  passed
+2020-11-07 15:53:35,260 - logger_File -INFO - Scenario Add to CartStarted
+2020-11-07 15:53:41,239 - logger_File -INFO - Retail page is opened
+2020-11-07 15:53:41,252 - logger_File -INFO - page title is verified
+2020-11-07 15:53:42,727 - logger_File -INFO - user click on tablet
+2020-11-07 15:53:43,208 - logger_File -INFO - user click on Add to cart button
+2020-11-07 15:53:43,715 - logger_File -INFO - user click on shopping cart
+2020-11-07 15:53:44,011 - logger_File -INFO - user is on shopping cart
+2020-11-07 15:53:44,226 - logger_File -INFO - Add to Cart  passed
